@@ -17,3 +17,6 @@ contract Storage is Ownable {
         balance[msg.sender] += msg.value;
     }
 }
+
+// 0x664A2AB46378028805822671D88626c0057663bB
+// https://rinkeby.etherscan.io/address/0x664A2AB46378028805822671D88626c0057663bB#code
